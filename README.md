@@ -84,15 +84,15 @@ The project implements 12 fraud detection patterns:
 
 ### P1 - Velocity Fraud
 
-![P1 Velocity Fraud](P1_Velocity_Fraud.png)
+![P1 Velocity Fraud](screenshots/P1_Velocity_Fraud.png)
 
 ### P8 - Merchant Collusion
 
-![P8 Merchant Collusion](P8_Merchant_Collusion.png)
+![P8 Merchant Collusion](screenshots/P8_Merchant_Collusion.png)
 
 ### P12 - Geographic Impossibility
 
-![P12 Geographic Impossibility](P12_Geographic_Impossibility.png)
+![P12 Geographic Impossibility](screenshots/P12_Geographic_Impossibility.png)
 
 ## Repository Contents
 
